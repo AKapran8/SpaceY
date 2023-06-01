@@ -1,2 +1,3 @@
 # SpaceY
-Проект с 2020года
+Project from 2020  
+Implementation of eternal video
